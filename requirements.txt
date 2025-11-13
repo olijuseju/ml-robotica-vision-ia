@@ -1,0 +1,6 @@
+torch
+torchvision
+jupyter
+black
+ruff
+pre-commit
